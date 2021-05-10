@@ -34,7 +34,7 @@ ggsave(
   width = NA,
   height = NA,
   units = c("in", "cm", "mm"),
-  dpi = 350,
+  dpi = 370,
   limitsize = TRUE,
 )
 ```
