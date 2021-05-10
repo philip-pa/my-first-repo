@@ -51,3 +51,8 @@ veränderung_2 <- "das ist eine weitere Veränderung"
 veränderung_2
 ```
 
+
+```{r}
+veränderung_3 <- "das ist eine weitere Veränderung"
+veränderung_3
+```
