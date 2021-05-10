@@ -47,7 +47,7 @@ veränderung
 
 
 ```{r}
-veränderung2 <- "das ist eine weitere Veränderung"
-veränderung2
+veränderung_2 <- "das ist eine weitere Veränderung"
+veränderung_2
 ```
 
