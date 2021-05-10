@@ -39,7 +39,15 @@ ggsave(
 )
 ```
 
+```{r}
+veränderung <- "das ist eine Veränderung"
+veränderung
+```
 
 
 
+```{r}
+veränderung2 <- "das ist eine weitere Veränderung"
+veränderung2
+```
 
